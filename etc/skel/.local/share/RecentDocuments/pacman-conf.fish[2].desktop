@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=pacman-conf.fish
+Type=Link
+URL[$e]=file:$HOME/.local/share/fish/generated_completions/pacman-conf.fish
+X-KDE-LastOpenedWith=org.kde.kate

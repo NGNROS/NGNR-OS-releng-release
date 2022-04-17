@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=user-desktop
+Name=.directory
+Type=Link
+URL[$e]=file:$HOME/Desktop/.directory
+X-KDE-LastOpenedWith=org.kde.kate

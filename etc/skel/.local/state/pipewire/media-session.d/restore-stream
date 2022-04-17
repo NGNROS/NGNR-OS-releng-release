@@ -1,0 +1,5 @@
+{
+ "restore.stream.Audio/Sink.node.name:jamesdsp_sink": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] },
+ "restore.stream.Input/Audio.application.name:Plasma PA": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000 ], "channels": [ "MONO" ] },
+ "restore.stream.Audio/Sink.node.name:auto_null": { "volume": 1.000000, "mute": false, "volumes": [ 1.000000, 1.000000 ], "channels": [ "FL", "FR" ] }
+}

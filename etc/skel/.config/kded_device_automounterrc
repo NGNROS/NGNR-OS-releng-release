@@ -1,0 +1,9 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk-root
+LastNameSeen=32.0 GiB Internal Drive (sda1)
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+Icon=media-optical-data
+LastNameSeen=GARUDA_DR460NIZED_WHITETAILEDEAG

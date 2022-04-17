@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 exec:///usr/lib/firedragon/firedragon,1 exec:///usr/lib/firefox/firefox,2 krunner_systemsettings
+
+[PlasmaRunnerManager][History]
+0f165c2d-0f13-43b7-a97f-18c6a1ef06ef=

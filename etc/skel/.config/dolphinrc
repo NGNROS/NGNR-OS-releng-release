@@ -1,0 +1,16 @@
+[General]
+AutoExpandFolders=true
+ShowToolTips=true
+ShowZoomSlider=false
+Version=201
+ViewPropsTimestamp=2022,4,16,5,6,16.721
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+Virtual1 Height 1920x1080=592
+Virtual1 Width 1920x1080=752
+Virtual1 XPosition 1920x1080=1058
+Virtual1 XPosition 1920x950=669
+Virtual1 YPosition 1920x1080=198
+Virtual1 YPosition 1920x950=201

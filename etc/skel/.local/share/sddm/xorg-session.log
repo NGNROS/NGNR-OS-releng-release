@@ -1,0 +1,146 @@
+kdeinit5: preparing to launch '/usr/lib/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 633, result = 0
+kdeinit5: opened connection to :0
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_SIZE=24' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/NGNR-ator:@/tmp/.ICE-unix/681,unix/NGNR-ator:/tmp/.ICE-unix/681' from launcher.
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/NGNR-ator:@/tmp/.ICE-unix/681,unix/NGNR-ator:/tmp/.ICE-unix/681' from launcher.
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+/usr/bin/autorandr:49: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+  from distutils.version import LooseVersion as Version
+Failed to load profile 'default': Profile not found (line 1502)
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'XCURSOR_THEME=breeze_cursors' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/taha/.gtkrc:/home/taha/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/taha/.gtkrc-2.0:/home/taha/.config/gtkrc-2.0' from launcher.
+
+(firedragon:1908): Gtk-WARNING **: 01:08:01.629: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 01:08:01.629: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 01:08:01.629: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 01:08:01.629: Theme parsing error: gtk.css:5827:11: Expected a length
+Gtk-Message: 01:08:01.713: Failed to load module "appmenu-gtk-module"
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.145: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.145: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.145: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.145: Theme parsing error: gtk.css:5827:11: Expected a length
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.216: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.216: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.216: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.216: Theme parsing error: gtk.css:5827:11: Expected a length
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.259: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.259: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.259: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:03.259: Theme parsing error: gtk.css:5827:11: Expected a length
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: chrome://browser/content/browser.js, line 4701: TypeError: PanelUI.panel is undefined
+
+(firedragon:1908): LIBDBUSMENU-GTK-CRITICAL **: 00:08:04.562: dbusmenu_menuitem_property_set_shortcut: assertion 'gtk_accelerator_valid(key, modifier)' failed
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.027: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.027: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.027: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.027: Theme parsing error: gtk.css:5827:11: Expected a length
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.320: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.320: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.320: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.320: Theme parsing error: gtk.css:5827:11: Expected a length
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.420: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.420: Theme parsing error: gtk.css:5825:14: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.421: Theme parsing error: gtk.css:5826:13: not a number
+
+(firedragon:1908): Gtk-WARNING **: 00:08:05.421: Theme parsing error: gtk.css:5827:11: Expected a length
+JavaScript error: chrome://browser/content/browser.js, line 4701: TypeError: PanelUI.panel is undefined
+JavaScript error: chrome://browser/content/browser.js, line 4701: TypeError: PanelUI.panel is undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(/home/taha/.firedragon/x0x4ieqn.default-release/thumbnails) because it does not exist
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+(firefox:3604): Gtk-WARNING **: 01:13:54.314: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firefox:3604): Gtk-WARNING **: 01:13:54.314: Theme parsing error: gtk.css:5825:14: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:54.314: Theme parsing error: gtk.css:5826:13: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:54.314: Theme parsing error: gtk.css:5827:11: Expected a length
+Gtk-Message: 01:13:54.360: Failed to load module "appmenu-gtk-module"
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.034: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.034: Theme parsing error: gtk.css:5825:14: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.034: Theme parsing error: gtk.css:5826:13: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.034: Theme parsing error: gtk.css:5827:11: Expected a length
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.132: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.132: Theme parsing error: gtk.css:5825:14: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.132: Theme parsing error: gtk.css:5826:13: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.132: Theme parsing error: gtk.css:5827:11: Expected a length
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.165: Theme parsing error: gtk.css:5822:26: '-shadow' is not a valid color name
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.165: Theme parsing error: gtk.css:5825:14: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.165: Theme parsing error: gtk.css:5826:13: not a number
+
+(firefox:3604): Gtk-WARNING **: 01:13:55.165: Theme parsing error: gtk.css:5827:11: Expected a length
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+libEGL warning: DRI2: failed to authenticate
+ATTENTION: default value of option mesa_glthread overridden by environment.

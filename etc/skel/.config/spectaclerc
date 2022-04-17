@@ -1,0 +1,15 @@
+[$Version]
+update_info=spectacle_clipboard.upd:clipboard-settings-change,spectacle_rememberregion.upd:spectacle-migrate-rememberregion
+
+[General]
+autoSaveImage=true
+clipboardGroup=PostScreenshotCopyImage
+printKeyActionRunning=FocusWindow
+rememberLastRectangularRegion=2
+useReleaseToCapture=true
+
+[GuiConfig]
+quitAfterSaveCopyExport=true
+
+[Save]
+saveFilenameFormat=Screenshot_%T_%d
